@@ -15,16 +15,16 @@ object formPrincipal: TformPrincipal
   TextHeight = 13
   object Label1: TLabel
     Left = 24
-    Top = 72
-    Width = 3
-    Height = 13
+    Top = 128
+    Width = 184
+    Height = 17
   end
   object Button1: TButton
     Left = 24
-    Top = 104
+    Top = 80
     Width = 185
     Height = 25
-    Caption = 'Bot'#227'o'
+    Caption = 'Bot'#227'o testar edit'
     TabOrder = 0
     OnClick = Button1Click
   end

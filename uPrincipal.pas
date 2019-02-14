@@ -27,7 +27,7 @@ implementation
 
 procedure TformPrincipal.Button1Click(Sender: TObject);
 begin
-  Label1.Caption := Edit1.Text;
+  Label1.Caption := 'Teste Git' + Edit1.Text;
 end;
 
 end.
